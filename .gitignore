@@ -1,0 +1,39 @@
+# Python cache & environment
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+*.log
+
+# Virtual environment
+reviewguard_env/
+.env/
+.venv/
+
+# Jupyter & notebook stuff
+.ipynb_checkpoints/
+notebooks/.ipynb_checkpoints/
+
+# Data files (raw and processed)
+data/raw/
+data/processed/
+*.csv
+*.tsv
+*.json
+
+# IDE & OS files
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Model files / checkpoints
+models/
+*.pt
+*.bin
+*.h5
+
+# Misc
+*.zip
+*.tar.gz
+*.bak
