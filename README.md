@@ -84,7 +84,7 @@ This project was developed as an **academic final project** and demonstrates the
 ### 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/RavenX-Iman/ReviewGuard.git
+git clone https://github.com/iman-tahir/ReviewGuard.git
 cd ReviewGuard
 ```
 
@@ -193,7 +193,7 @@ The Streamlit-based UI allows users to:
 ## 👤 Author
 
 <td align="center" width="33%">
-<img src="https://github.com/RavenX-Iman.png" width="150px;" alt="Eman Tahir"/><br />
+<img src="https://github.com/iman-tahir.png" width="150px;" alt="Eman Tahir"/><br />
 <b>Eman Tahir</b><br />
 <a href="https://github.com/RavenX-Iman">@RavenX-Iman</a><br />
 </td>
