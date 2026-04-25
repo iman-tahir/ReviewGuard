@@ -195,7 +195,7 @@ The Streamlit-based UI allows users to:
 <td align="center" width="33%">
 <img src="https://github.com/iman-tahir.png" width="150px;" alt="Eman Tahir"/><br />
 <b>Eman Tahir</b><br />
-<a href="https://github.com/RavenX-Iman">@RavenX-Iman</a><br />
+<a href="https://github.com/iman-tahir">@iman-tahir</a><br />
 </td>
 
 ---
